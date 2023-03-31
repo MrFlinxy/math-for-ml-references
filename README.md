@@ -1,2 +1,3 @@
-# Math For ML References
-Referensi matematika untuk Machine Learning
+# Machine Learning References
+
+Referensi Machine Learning
